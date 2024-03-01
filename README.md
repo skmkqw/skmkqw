@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @skmkqw
+- 👀 I’m interested in backend and fullstack development
+- 🌱 I’m currently learning python and computer science
+- 💞️ I’m looking for anyone to collaborate with
+- 📫 How to reach me: telegram - @tksmkq
