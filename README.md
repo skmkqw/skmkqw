@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Timofei Korsakov 👋
 
-<!--
-**skmkqw/skmkqw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **full-stack web developer**. I'm currently in my second year of studies **Computer Science** at the University of Economics and Computer Science in **Krakow, Poland**. My primary focus is on developing web applications using **.NET** and **React**. I'm always eager to learn new technologies and enhance my skills.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Frontend:** TypeScript, React, HTML, CSS, Tailwind CSS
+- **Backend:** C#, .NET, Python
+- **Database:** SQL Server
+- **Tools:** Git, GitHub, JetBrains IDE, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Get in Touch
+- **My CV/Portfolio:** [Portfolio](https://portfolio-skmkqws-projects.vercel.app/)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/timofei-korsakov-3602a2303/)
+- **Email:** tkorsakov77@gmail.com
