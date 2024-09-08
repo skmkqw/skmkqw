@@ -3,8 +3,8 @@
 I'm a passionate **full-stack web developer**. I'm currently in my second year of studies **Computer Science** at the University of Economics and Computer Science in **Krakow, Poland**. My primary focus is on developing web applications using **.NET** and **React**. I'm always eager to learn new technologies and enhance my skills.
 
 ## 🛠️ Tech Stack
+- **Backend:** C#, .NET, EF Core, Python
 - **Frontend:** TypeScript, React, HTML, CSS, Tailwind CSS
-- **Backend:** C#, .NET, Python
 - **Database:** SQL Server
 - **Tools:** Git, GitHub, JetBrains IDE, Postman
 - **Design:** Figma, Blender
