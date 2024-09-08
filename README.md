@@ -7,6 +7,7 @@ I'm a passionate **full-stack web developer**. I'm currently in my second year o
 - **Backend:** C#, .NET, Python
 - **Database:** SQL Server
 - **Tools:** Git, GitHub, JetBrains IDE, Postman
+- **Design:** Figma, Blender
 
 ## 📫 Get in Touch
 - **My CV/Portfolio:** [Portfolio](https://portfolio-skmkqws-projects.vercel.app/)
