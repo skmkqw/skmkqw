@@ -1,12 +1,12 @@
 ## Hi there, I'm Timofei Korsakov 👋
 
-I'm a passionate **full-stack web developer**. I'm currently in my second year of studies **Computer Science** at the University of Economics and Computer Science in **Krakow, Poland**. My primary focus is on developing web applications using **.NET** and **React**. I'm always eager to learn new technologies and enhance my skills.
+I'm a passionate **full-stack web developer**. I'm currently in my second year of studies **Computer Science** at the University of Economics and Computer Science in **Krakow, Poland**. My primary focus is on developing fullstack web applications using **.NET** and **Next.js**. I'm always eager to learn new technologies and enhance my skills.
 
 ## 🛠️ Tech Stack
-- **Backend:** C#, .NET, EF Core, Python
-- **Frontend:** TypeScript, React, HTML, CSS, Tailwind CSS
-- **Database:** SQL Server
-- **Tools:** Git, GitHub, JetBrains IDE, Postman
+- **Backend:** C#, .NET, EF Core
+- **Frontend:** TypeScript, React, Next.js, HTML, CSS, Tailwind CSS
+- **Database:** SQL Server, PostgreSQL
+- **Tools:** Git, GitHub, Postman, JetBrains IDEs
 - **Design:** Figma, Blender
 
 ## 📫 Get in Touch
